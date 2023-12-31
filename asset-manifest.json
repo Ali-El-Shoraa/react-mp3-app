@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mp3-app/static/css/main.3263ccb3.css",
+    "main.js": "/react-mp3-app/static/js/main.ba1e3b6a.js",
+    "index.html": "/react-mp3-app/index.html",
+    "main.3263ccb3.css.map": "/react-mp3-app/static/css/main.3263ccb3.css.map",
+    "main.ba1e3b6a.js.map": "/react-mp3-app/static/js/main.ba1e3b6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3263ccb3.css",
+    "static/js/main.ba1e3b6a.js"
+  ]
+}
